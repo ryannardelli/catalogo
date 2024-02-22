@@ -32,7 +32,7 @@ pagina_login/
 ||-- air-force-white.png <br>
 ||-- air-jordan-green-and-black.png <br>
 ||-- cap.png <br>
-||-- fotwear-blue.png <br>
+||-- footwear-blue.png <br>
 ||-- logo-nike.png <br>
 |-- index.html <br>
 |-- README.md <br>
