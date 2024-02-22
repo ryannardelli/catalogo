@@ -1,4 +1,4 @@
-# Página de Login
+# Catálogo
 Este projeto se trata de um cataálogo de produtos feito baseado em produtos da marca conhecida mundialmente, a Nike.
 
 ## Capturas de Telas
