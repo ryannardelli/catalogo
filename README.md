@@ -1,5 +1,5 @@
 # Catálogo
-Este projeto se trata de um cataálogo de produtos feito baseado em produtos da marca conhecida mundialmente, a Nike.
+Este projeto se trata de um catálogo de produtos feito baseado em produtos da marca conhecida mundialmente, a Nike.
 
 ## Capturas de Telas
 
