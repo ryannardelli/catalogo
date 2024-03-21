@@ -215,7 +215,6 @@ small {
     .destaque {
         flex-flow: column wrap;
     }
- 
 }
 
 @media (max-width:600px), (max-width: 1025px) { /* tela de tablet */
