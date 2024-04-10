@@ -4,7 +4,7 @@ Este projeto se trata de um catálogo de produtos feito baseado em produtos da m
 ## Capturas de Telas
 
 <p align="center">
-  <img src="https://github.com/ryannardelli/catalogo/assets/124520379/7a691b77-060b-4558-8d7e-8e74a6bef421">
+  <img src="https://github.com/ryannardelli/catalogo/assets/124520379/fea2169e-afb6-4033-bce5-9ecd8597e8d5">
 </p>
 
 ## Como Usar
